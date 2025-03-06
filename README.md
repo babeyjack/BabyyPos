@@ -32,6 +32,7 @@ In the Builds folder there is also a change log. This contains all of the change
 ## Testing
 
 If you would like to test the system out, I have included the database file which I used during development. To use this file, copy and paste it into the following directory C:\Users\[User]\AppData\LocalLow\DefaultCompany\BabyyPos replacing [User] with the current users name
+NOTE: This project has only been compiled for Windows
 
 ## Post-Script
 
